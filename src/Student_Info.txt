@@ -1,3 +1,0 @@
-studentName: CHARNEY JUSTIN
-studentID: 260894996
-programmingLanguage: PYTHON 3
